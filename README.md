@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fexxerx
+- 👋 Hi, I’m Mickechny Charles
 - 👀 I’m interested in technology and science.
 - 🌱 I’m currently learning English and web programming.
 - 🤝 I’m looking to collaborate on web programming projects.
