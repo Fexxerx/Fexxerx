@@ -4,7 +4,7 @@ Hi 👋 My name is Mickechny Charles
 front-end and back-end student
 ------------------------------
 
-🎓 I'm a Civil Informatics Engineering student at \[Your University\], passionate about software development and on my way to becoming a Fullstack Developer. 🚀 Currently, I am learning and honing my skills in front-end and back-end technologies to build robust and efficient web applications. 🛠️ Languages and Technologies: Front-end: HTML, CSS, JavaScript, Back-end: Python 🌱 I am always seeking new knowledge and challenges that allow me to grow professionally and contribute innovative solutions in the tech world.
+🎓 I'm a Civil Informatics Engineering student, passionate about software development and on my way to becoming a Fullstack Developer. 🚀 Currently, I am learning and honing my skills in front-end and back-end technologies to build robust and efficient web applications. 🛠️ Languages and Technologies: Front-end: HTML, CSS, JavaScript, Back-end: Python 🌱 I am always seeking new knowledge and challenges that allow me to grow professionally and contribute innovative solutions in the tech world.
 
 * 🌍  I'm based in chile
 * ✉️  You can contact me at [mickechnycharles45@gmail.com](mailto:mickechnycharles45@gmail.com)
