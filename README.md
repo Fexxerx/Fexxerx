@@ -79,7 +79,6 @@ front-end and back-end student
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fexxerx/fexxerx/output/snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fexxerx/fexxerx/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fexxerx/fexxerx/output/github-snake.svg" />
